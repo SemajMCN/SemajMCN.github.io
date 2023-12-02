@@ -4,7 +4,7 @@ This is my home pageI am a first year student at [California State University, F
 
 ## Computer Science Projects
 
-My GitHub page is https://github.com/SemajMCN
+My GitHub page is [here](https://github.com/SemajMCN)
 
 ## CPSC 120
 
